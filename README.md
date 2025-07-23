@@ -27,4 +27,4 @@ Config files are located in Config directory.
 (myenv) $ python main.py --name {dataset_name} --config_file {config.yaml} --gpu 0 --sample 1 --milestone {checkpoint_number} --mode predict --pred_len {pred_len}
 ```
 
-This paper has been submitted for peer review and is currently under review.
+This paper is currently under review.
